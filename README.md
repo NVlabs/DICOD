@@ -1,6 +1,6 @@
 [![NVIDIA Source Code License](https://img.shields.io/badge/license-NSCL-blue.svg)](https://github.com/NVlabs/SegFormer/blob/master/LICENSE)
 
-This repository is the official PyTorch implementation of training & evaluation code for [Distilling Image Classifiers in Object Detectors](https://arxiv.org/abs/2106.05209), NeuRIPS 2021
+This repository is the official PyTorch implementation of training & evaluation code for [Distilling Image Classifiers in Object Detectors](https://arxiv.org/abs/2106.05209), NeurIPS 2021.
 
 
 # Distilling Image Classifiers in Object Detectors
